@@ -11,6 +11,7 @@ Season 0 Rust under the hood
 - s0e8 Rc vs RAII in Rust
 - s0e9 Heap Vs. Stack in Rust
 - s0e10 Exploring Cargo in Rust
+
 Season 1 Rust for Beginners
 - s1e0 Welcome to Rust as a first lang
 - ☑️ s1e1 [Basic Variables in Rust](https://www.youtube.com/watch?v=X_XTuj0k8zg)
@@ -53,6 +54,7 @@ Season 1 Rust for Beginners
 - s1e38 Looking at disassembly in Rust
 - s1e39 Problem Solving in Rust (Stella Stella Ola)
 - s1e40 Separation of Concerns in Rust
+
 Season 2 Intermediate Rust
 - s2e0 Rust for Experienced programmers
 - s2e1 Using a library in Rust
@@ -88,6 +90,7 @@ Season 2 Intermediate Rust
 - s2e29 Phantom Types in Rust
 - s2e30 Putting together generics in Rust
 - s2e31 Multithreading in Rust
+
 Season 3 Advanced Rust and CI/CD 
 - s3e0 Rust for Professional Software Engineers
 - s3e1 Creating a library in Rust
@@ -101,6 +104,7 @@ Season 3 Advanced Rust and CI/CD
 - s3e8 Associated Types in Rust
 - s3e9 Garbage Collector and Rust
 - s3e10 Making an API in Rust
+
 Season 4 Rust Tauri
 - s4e0 Welcome to Tauri
 - s4e1 How to Setup Tauri on Windows
