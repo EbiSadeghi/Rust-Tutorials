@@ -115,8 +115,6 @@ Season 4 Rust Tauri
 - s4e6 Putting together a timer in Tauri
 - s4e7 More complex shit in Tauri
 - s4e8 What is Vite?
-		[[Hot Module Replacement (HMR)]]
-		Bundling
 - s4e9 Rust and the DOM
 - s4e10 Rust front-end with Tauri
 - s4e11 Timer with Rust Front-end 
