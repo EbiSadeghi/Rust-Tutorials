@@ -19,41 +19,43 @@ Season 1 Rust for Beginners
 - ☑️ s1e3 [Conditionals & Match in Rust](https://www.youtube.com/watch?v=eWAHArWku7Y)
 - ☑️ s1e4 [Loops in Rust](https://www.youtube.com/watch?v=FCQtq4XR8Dw)
 - s1e5 Functions in Rust
-- s1e6 Literals and Inference in Rust
-- s1e7 Casting and Aliasing in Rust
-- s1e8 Review: the basics in Rust
-- s1e9 Floating Point Numbers in Software
-- s1e10 Rust BEDMAS (Order of Operations)
-- s1e11 Scoping in Rust
-- s1e12 Variable Shadowing in Rust
-- s1e13 Recursive Functions in Rust
-- s1e14 Bitwise Operations in Rust
-- s1e15 Arrays in Rust
-- s1e16 Multidimensional Arrays in Rust
-- s1e17 Review: Data Structures in Rust
-- s1e18 String Manipulation in Rust
-- s1e19 Tuples in Rust
-- s1e20 Pointers & References in Rust
-- s1e21 Vectors in Rust
-- s1e22 Hashmaps in Rust
-- s1e23 Review: pointers in Rust
-- s1e24 Enums in Rust
-- s1e25 Structs in Rust
-- s1e26 Methods in Rust
-- s1e27 Modules in Rust
-- s1e28 Traits in Rust
-- s1e29 Use-ing in Rust
-- s1e30 Self and Super in Rust
-- s1e31 File Hierarchy in Rust
-- s1e32 Constuctors and Destructors in Rust
-- s1e33 Review: basic OOP in Rust
-- s1e34 Coroutines & Static in Rust
-- s1e35 Using APIs in Rust
-- s1e36 Dynamic Programming in Rust
-- s1e37 Basic debugging in Rust
-- s1e38 Looking at disassembly in Rust
-- s1e39 Problem Solving in Rust (Stella Stella Ola)
-- s1e40 Separation of Concerns in Rust
+- s1e6 Structs in Rust
+- s1e7 Methods in Rust
+- s1e8 Singletons in Rust
+- s1e9 Literals and Inference in Rust
+- s1e10 Casting and Aliasing in Rust
+- s1e11 Review: the basics in Rust
+- s1e12 Floating Point Numbers in Software
+- s1e13 Rust BEDMAS (Order of Operations)
+- s1e14 Scoping in Rust
+- s1e15 Variable Shadowing in Rust
+- s1e16 Recursive Functions in Rust
+- s1e17 Bitwise Operations in Rust
+- s1e18 Arrays in Rust
+- s1e19 Multidimensional Arrays in Rust
+- s1e20 Review: Data Structures in Rust
+- s1e21 String Manipulation in Rust
+- s1e22 Tuples in Rust
+- s1e23 Pointers & References in Rust
+- s1e24	Pointer Arithmetic in Rust
+- s1e25 Vectors in Rust
+- s1e26 Hashmaps in Rust
+- s1e27 Review: pointers in Rust
+- s1e28 Enums in Rust
+- s1e29 Modules in Rust
+- s1e30 Traits in Rust
+- s1e31 Use-ing in Rust
+- s1e32 Self and Super in Rust
+- s1e33 File Hierarchy in Rust
+- s1e34 Constuctors and Destructors in Rust
+- s1e35 Review: basic OOP in Rust
+- s1e36 Coroutines & Static in Rust
+- s1e37 Using APIs in Rust
+- s1e38 Dynamic Programming in Rust
+- s1e39 Basic debugging in Rust
+- s1e40 Looking at disassembly in Rust
+- s1e41 Problem Solving in Rust (Stella Stella Ola)
+- s1e42 Separation of Concerns in Rust
 
 Season 2 Intermediate Rust
 - s2e0 Rust for Experienced programmers
