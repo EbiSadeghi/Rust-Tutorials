@@ -11,6 +11,8 @@ Season 0 Rust under the hood
 - s0e8 Rc vs RAII in Rust
 - s0e9 Heap Vs. Stack in Rust
 - s0e10 Exploring Cargo in Rust
+- s0e11 rustc command-line arguments
+- [External Video - Making Rust faster with compiler options](https://www.youtube.com/watch?v=mNBhZ5VQ2y4)
 
 Season 1 Rust for Beginners
 - s1e0 Welcome to Rust as a first lang
@@ -92,6 +94,7 @@ Season 2 Intermediate Rust
 - s2e29 Phantom Types in Rust
 - s2e30 Putting together generics in Rust
 - s2e31 Multithreading in Rust
+- [External Video - How to add Configuration to your Rust project](https://yewtu.be/watch?v=mDsBI__INZ0)
 
 Season 3 Advanced Rust and CI/CD 
 - s3e0 Rust for Professional Software Engineers
