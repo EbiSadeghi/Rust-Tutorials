@@ -1,3 +1,8 @@
+#### TODO
+- Add video script to repo
+- Organize s1 videos into s1 folder
+- Run code through main rs file
+
 #### Curriculum
 Season 0 Rust under the hood
 - s0e0 Welcome to Rust configuration
