@@ -159,13 +159,18 @@ Tags:
 #### Linear Algebra
 - [Linear Algebra for Beginners](https://www.youtube.com/watch?v=R3VlD0ohKwc)
 - [Linear Algebra - Matrix Transformations](https://www.youtube.com/watch?v=IrggOvOSZr4)
+- [What's a Tensor?](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 - [Tensors Explained Intuitively: Covariant, Contravariant, Rank](https://www.youtube.com/watch?v=CliW7kSxxWU)
 #### Statistics
 - [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=zZhU5Pf4W5w)
 - Redundant - [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
 - [Probability - Quantum and Classical](https://www.youtube.com/watch?v=X2eomv6XfWo)
+- 
 ### Physics
+- Motivation - [Philosophy of Science](https://www.youtube.com/watch?v=IR8LqXbELQM)
+- Motivation - [Philosophy of Physics](https://www.youtube.com/watch?v=DACcyBN5Jng)
 - [Classical Mechanics Lecture Full Course || Mechanics Physics Course](https://www.youtube.com/watch?v=83QCm3LkuEg)
+- Motivation - [Einstein's Elevator](https://www.youtube.com/watch?v=sbSxxsb30_E)
 - Motivation - [Does Time Cause Gravity?](https://www.youtube.com/watch?v=UKxQTvqcpSg)
 - [Minkowski Space-Time: Spacetime in Special Relativity](https://www.youtube.com/watch?v=zScn3tV9YPU)
 - Motivation - [The Geometry of Causality](https://www.youtube.com/watch?v=1YFrISfN7jo)
@@ -173,19 +178,40 @@ Tags:
 - Motivation - [The Arrow of Time and How to Reverse It](https://www.youtube.com/watch?v=QkWT-xMTm1M)
 - Motivation - [Why Do You Remember The Past But Not The Future?](https://www.youtube.com/watch?v=F0b8b_ykPQk)
 - Motivation - [How Quantum Entanglement Creates Entropy](https://www.youtube.com/watch?v=vgYQglmYU-8)
+#### Quantum Mechanics, Semiconductors, and Transistors
 - [Modern Physics || Modern Physics Full Lecture Course](https://www.youtube.com/watch?v=3lTQqEehEhI)
 - [Quantum Physics Full Course | Quantum Mechanics Course | Part 2](https://www.youtube.com/watch?v=QQCMOc8yB70)
 - Meme - [Futurama Schrodinger's Cat](https://www.youtube.com/watch?v=qr78nv5CR2s)
+- [Semiconductors - Physics inside Transistors and Diodes](https://www.youtube.com/watch?v=hrpPKCDLRN0)
+- [What causes the Pauli Exclusion Principle?](https://www.youtube.com/watch?v=Zlp2GQ3OLeE)
 
 ### Electrical Engineering
-- [Semiconductors - Physics inside Transistors and Diodes](https://www.youtube.com/watch?v=hrpPKCDLRN0)
+#### Circuits
+- [THE BEST Multimeter tutorial (HD)](https://www.youtube.com/watch?v=bF3OyQ3HwfU)
 - [Real vs Reactive Power](https://www.youtube.com/watch?v=2mD3UbSW7ho)
+- [AC current impedance - Alternating Voltage for inductors, capacitors](https://www.youtube.com/watch?v=zO7RZZW0wSQ)
+- [The Biot-Savart Law and Introduction to Ampere's Law](https://www.youtube.com/watch?v=NJsJB7-PWPg)
+- [ELEC 202 - (Silent Video) Class notes on Filters for my students.](https://www.youtube.com/watch?v=nCwfvrcZ9sQ)
+- [Resonance Circuits: LC Inductor-Capacitor Resonating Circuits](https://www.youtube.com/watch?v=Mq-PF1vo9QA)
+- [ELEC 202 - (Silent video) Class notes on Resonance for my students.](https://www.youtube.com/watch?v=3knAk2tbpno)
+- [ELEC 202 - Two Port Networks SILENT](https://www.youtube.com/watch?v=LJfGnBpbiK0)
+- [How Alternators Work - Automotive Electricity Generator](https://www.youtube.com/watch?v=jdSKlg80DjU)
+#### Applied
+- [The Breadboard, schematics, cables and wiring.](https://www.youtube.com/watch?v=0XYv5x70Ofc)
 - [Melt your circuit boards](https://www.youtube.com/watch?v=euJgtLcWWyo)
 - [Design your own Circuit Boards using Kicad Part 1 (using only FREE software)](https://www.youtube.com/watch?v=sEGyNfBuPig)
 - [Design your own Circuit Boards using Kicad Part 2](https://www.youtube.com/watch?v=qw9WIm5M5R4)
 - [From Idea to Schematic to PCB - How to do it easily!](https://www.youtube.com/watch?v=35YuILUlfGs)
 - [You can now PRINT PCBs! Creating a homemade PCB with the Voltera V-One PCB Printer!](https://www.youtube.com/watch?v=8u4izLA-SCo)
 - [Electronic Computing: Crash Course Computer Science #2](https://www.youtube.com/watch?v=LN0ucKNX0hc)
+#### Control Systems
+- Meme - [The Missile Knows Where It Is...](https://www.youtube.com/watch?v=bZe5J8SVCYQ) & [The Missile Knows Where it is (Remix)](https://www.youtube.com/watch?v=_LjN3UclYzU)
+- [PID Control - A brief introduction](https://www.youtube.com/watch?v=UR0hOmjaHp0)
+- [Simple Examples of PID Control](https://www.youtube.com/watch?v=XfAt6hNV8XM)
+  	- [His website](https://engineeringmedia.com/videos)
+- Meme - [Interstellar Meme](https://www.youtube.com/watch?v=O97WbeUKtS0)
+- Meme - [When the controls head out](https://www.youtube.com/watch?v=6ZuoRcV1N8w)
+- [The Missile Knows Where It Is, But It's Actually A Javascript Tutorial](https://www.youtube.com/watch?v=c94bALAgENM)
 ### Computer Architecture
 #### Hardware Engineering
 - [Boolean Logic & Logic Gates: Crash Course Computer Science #3](https://www.youtube.com/watch?v=gI-qXk7XojA)
@@ -196,6 +222,8 @@ Tags:
 - [Verilog Debugging Tips](https://www.youtube.com/watch?v=2c3CZouKJKs)
 - [How to Write an FSM in SystemVerilog (SystemVerilog Tutorial #1)](https://www.youtube.com/watch?v=ENH-8zZLbK8)
 - [How to Simulate and Test SystemVerilog with ModelSim (SystemVerilog Tutorial #2)](https://www.youtube.com/watch?v=-o3RBvTh4Hw)
+- [Memory & Storage: Crash Course Computer Science #19](https://www.youtube.com/watch?v=TQCr9RV7twk)
+- [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=6Ec_o8Ka-Z0)
 #### Embedded Software Engineering
 - [Assembly Language in 100 Seconds](https://www.youtube.com/watch?v=4gwYkEK0gOk)
 - [Instructions & Programs: Crash Course Computer Science #8](https://www.youtube.com/watch?v=zltgXvg6r3k)
@@ -224,14 +252,12 @@ Tags:
 - [2 Practice Quiz Understanding Performance](https://www.youtube.com/watch?v=hifGulVLtNQ)
 - [Operating Systems Overview - CompTIA A+ 220-1002 - 1.1](https://www.youtube.com/watch?v=ChQ18B1hofI)
 
-  
 #### Operating System Design
 - [How do computers read code?](https://www.youtube.com/watch?v=QXjU9qTsYCc)
 - [1 3 1 Pipelining Principles](https://www.youtube.com/watch?v=zPmfprtdzCE)
 - [Pipelining in a Processor - Georgia Tech - HPCA: Part 1](https://www.youtube.com/watch?v=eVRdfl4zxfI)
 - Redundant - [Conceptual Introduction to Pipelining](https://www.youtube.com/watch?v=doJpguZFTe0)
 - [1 3 2 Canonical 5 Stage Pipeline](https://www.youtube.com/watch?v=riJC3sAekpY)
-
 
 ### Compilers & Programming Languages
 - [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
@@ -243,7 +269,47 @@ Tags:
 - Motivation - [NYC’s nonprofit DIY internet is taking on Verizon & more | Just Might Work by Freethink](https://www.youtube.com/watch?v=Dpl-faX6vlg)
 
 ### Cybersecurity
+#### Theory
+- [OpenCSF 3 4: Software Security Lecture 1 Full](https://www.youtube.com/watch?v=STdt131vBYs)
+- [OpenCSF 3 4: Software Security Lecture 2 Full](https://www.youtube.com/watch?v=Hd0kLoRYkww)
+#### Economics of Cybersecurity
+- [Economics of Cybersecurity: A brief history](https://www.youtube.com/watch?v=wAmHPJQoWEc)
+- [Economics of Cybersecurity: An introduction to economics](https://www.youtube.com/watch?v=-Tw_yFiqIfY)
+- [Economics of Cybersecurity: The economics of information of goods](https://www.youtube.com/watch?v=TIHUN1weIq0)
+- [Economics of Cybersecurity: Security from an economic perspective](https://www.youtube.com/watch?v=6cjdqvq-izA)
+- [Economics of Cybersecurity: What to measure?](https://www.youtube.com/watch?v=l4SZfbUUKk8)
+- [Economics of Cybersecurity: Measuring security levels](https://www.youtube.com/watch?v=yn_preZq4Ew)
+- [Economics of Cybersecurity: Metrics in practice](https://www.youtube.com/watch?v=IMeaN3vnU4w)
+- [Economics of Cybersecurity: Metrics from incident data](https://www.youtube.com/watch?v=bRH-VBewwAs)
+- [Economics of Cybersecurity: Information security strategy](https://www.youtube.com/watch?v=no3UGkeSgI8)
+- [Economics of Cybersecurity: Information security investment](https://www.youtube.com/watch?v=wh2gx_S0nnc)
+- [Economics of Cybersecurity: Risk management](https://www.youtube.com/watch?v=b9XEjR6CAIw)
+- [Economics of Cybersecurity: Operational security management](https://www.youtube.com/watch?v=f5_T47AxKgU)
+- [Economics of Cybersecurity: Market failures](https://www.youtube.com/watch?v=IIuLwMhzTLc)
+- [Economics of Cybersecurity: Policy interventions](https://www.youtube.com/watch?v=-9K3HCs-bBQ)
+- [Economics of Cybersecurity: Information sharing in incident response](https://www.youtube.com/watch?v=hIhr0s80MjY)
+- [Economics of Cybersecurity: payment card security](https://www.youtube.com/watch?v=ibb_oehGYTU)
+- [Economics of Cybersecurity: Prospect Theory](https://www.youtube.com/watch?v=ScW13Dg2Csw)
+- [Economics of Cybersecurity: heuristics and social persuasion](https://www.youtube.com/watch?v=Lam590FTOpk)
+- [Economics of Cybersecurity: behavioural economics of privacy](https://www.youtube.com/watch?v=PLRPNkNGXDI)
+- [Economics of Cybersecurity: consumer behaviour and deception](https://www.youtube.com/watch?v=ZkEgytKrzvc)
+- [Economics of Cybersecurity: security economics and policy](https://www.youtube.com/watch?v=qMfF71PXfrE)
+#### Applied Security
+- [Cormac Herley: Passwords - A Guide to the Ruins and Lessons for Improvement](https://www.youtube.com/watch?v=vAWyChcB_Vg)
+- [What Is The Most Complicated Lock Pattern?](https://www.youtube.com/watch?v=PKjbBQ0PBCQ)
+- [OpenCSF 3 3: Usable Security Lecture 1 Full](https://www.youtube.com/watch?v=byGMnzmX9BE)
+- [OpenCSF 3 3: Usable Security Lecture 2 Full](https://www.youtube.com/watch?v=5n6p3KCmei8)
+- [OpenCSF 3 3: Usable Security Lecture 3 Full](https://www.youtube.com/watch?v=O4QbOFDUVao)
+- [OpenCSF 3 3: Usable Security Lecture 4 Full](https://www.youtube.com/watch?v=RIzj2jmgXVA)
+- [OpenCSF 3 3: Usable Security Lecture 5 Full](https://www.youtube.com/watch?v=6Ec_o8Ka-Z0)
+- [OpenCSF 3 4: Software Security Lecture 3 Full](https://www.youtube.com/watch?v=7W5au-IJUEc)
+- [OpenCSF 3 4: Software Security Lecture 4 Full](https://www.youtube.com/watch?v=4hzAmGXE1n8)
+- Redundant - [Cyber Security Full Course for Beginners](https://www.youtube.com/watch?v=U_P23SqJaDc) 
+- [Why Windows Gets Viruses So Often](https://www.youtube.com/watch?v=jBIcu3jgpMo)
+##### Penetration Testing
+- [OpenCSF 3 4: Software Security Lecture 5 Full](https://www.youtube.com/watch?v=t7sag2VLfag)
 
+  
 ### Computer Science
 - [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
 #### Data Structures
@@ -303,6 +369,7 @@ Tags:
 
 #### Containers & Deployment
 - [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjnup-PuquQ)
+- [Learn Docker in 7 Easy Steps - Full Beginner's Tutorial](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI)
 - Redundant - [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [Automate EVERYTHING with Ansible! (Ansible for Beginners)](https://www.youtube.com/watch?v=w9eCU4bGgjQ)
@@ -322,7 +389,12 @@ Tags:
 - [Vim As You Editor - Advanced Motions P1](https://www.youtube.com/watch?v=qZO9A5F6BZs)
 - [Vim as your editor - Advanced Motions P2](https://www.youtube.com/watch?v=uL9oOZStezw)
 - [Best Vim Motion in 20 Seconds](https://www.youtube.com/watch?v=uxMfvWPUThE)
+- Redundant - [How to Become a VIM /G/od](https://www.youtube.com/watch?v=3sUDa5GdCTI)
+- Redundant - [Vim Tips You Probably Never Heard of](https://www.youtube.com/watch?v=bQfFvExpZDU)
 
+#### Communication
+- Meme - [Technical Jargon Overload](https://www.youtube.com/watch?v=aW2LvQUcwqc)
+- Meme - [Droop Snoot](https://www.youtube.com/watch?v=YuedQFH8wZI)
 #### Studying & Organization
 
 ### Ethics
@@ -330,3 +402,4 @@ Tags:
 - [Jaron Lanier - 10 Reasons to Get Off Social Media](https://www.youtube.com/watch?v=BCTlcj5vImk)
 - [Jaron Lanier – Who is Civilization for? (+ Q&A with Ulrich Kelber) Willy Brandt Lecture 2018](https://www.youtube.com/watch?v=rGqiswuJuQI)
 - [Why Google Maps Doesn't Show You Unsafe Areas](https://www.youtube.com/watch?v=4i66ht6YHkw)
+- [Is Automation Ethical?](https://www.youtube.com/watch?v=oIilPHgC238)
