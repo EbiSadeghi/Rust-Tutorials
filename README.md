@@ -127,4 +127,59 @@ Season 4 Rust Tauri
 - s4e8 What is Vite?
 - s4e9 Rust and the DOM
 - s4e10 Rust front-end with Tauri
-- s4e11 Timer with Rust Front-end 
+- s4e11 Timer with Rust Front-end
+
+## Fundamentals of Computer Science
+If you feel you do not have the background to learn computer science, just know that there are plenty of great free resources online.
+
+I am making available all the YT videos I looked at as supplementary resources over the course of my own engineering studies. 
+
+A similar overview is the following:
+  [The Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs)
+
+The list below has far more content than what you would see in a standard degree - so please do not get intimidated.
+
+### Mathematics
+#### Highschool Maths
+- [Algebra for Beginners | Algebra Full Course](https://www.youtube.com/watch?v=_F7_zB3BYQ0)
+#### Calculus
+- Motivation - [How to Make it Through Calculus (Neil deGrasse Tyson)](https://www.youtube.com/watch?v=NjvwWiCYLl4)
+- Motivation - [Calculus at a Fifth Grade Level](https://www.youtube.com/watch?v=TzDhdvVg9_c) 
+- [Calculus 1 - full course for beginners](https://www.youtube.com/watch?v=JizOEcL4ft8)
+- Calculus 2 - [Calculus Series and Sequences](https://www.youtube.com/watch?v=_IR2WVV8zZs)
+- [Calculus 3 Full Course](https://www.youtube.com/watch?v=0yebWTXixnE)
+#### Linear Algebra
+- [Linear Algebra for Beginners](https://www.youtube.com/watch?v=R3VlD0ohKwc)
+#### Statistics
+- [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=zZhU5Pf4W5w)
+### Physics
+- [Classical Mechanics Lecture Full Course || Mechanics Physics Course](https://www.youtube.com/watch?v=83QCm3LkuEg)
+- [Modern Physics || Modern Physics Full Lecture Course](https://www.youtube.com/watch?v=3lTQqEehEhI)
+- [Quantum Physics Full Course | Quantum Mechanics Course | Part 2](https://www.youtube.com/watch?v=QQCMOc8yB70)
+
+### Electrical Engineering
+
+### Computer Architecture
+- [Verilog Debugging Tips](https://www.youtube.com/watch?v=2c3CZouKJKs)
+- [How to Write an FSM in SystemVerilog (SystemVerilog Tutorial #1)](https://www.youtube.com/watch?v=ENH-8zZLbK8)
+- [How to Simulate and Test SystemVerilog with ModelSim (SystemVerilog Tutorial #2)](https://www.youtube.com/watch?v=-o3RBvTh4Hw)
+
+
+### Cryptography
+
+### Networking
+
+### Cybersecurity
+
+### Computer Science
+- [Data Structures - Computer Science Course for Beginners](https://www.youtube.com/watch?v=zg9ih6SVACc)
+- [Binary Tree Algorithms for Technical Interviews - Full Course](https://www.youtube.com/watch?v=fAAZixBzIAI)
+- 
+
+### Tools for Coding
+#### Git
+- [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+  
+#### Linux
+- [Linux Tutorial For Beginners || Linux Command Line Tutorial](https://www.youtube.com/watch?v=5jIIOkA0NpI)
