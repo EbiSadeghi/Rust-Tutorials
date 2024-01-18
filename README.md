@@ -129,7 +129,7 @@ Season 4 Rust Tauri
 - s4e10 Rust front-end with Tauri
 - s4e11 Timer with Rust Front-end
 
-## Fundamentals of Computer Science
+## Fundamentals of Electronics & Computer Science
 If you feel you do not have the background to learn computer science, just know that there are plenty of great free resources online.
 
 I am making available all the YT videos I looked at as supplementary resources over the course of my own engineering studies. 
@@ -198,13 +198,13 @@ Tags:
 - [How Alternators Work - Automotive Electricity Generator](https://www.youtube.com/watch?v=jdSKlg80DjU)
 #### Applied
 - [The Breadboard, schematics, cables and wiring.](https://www.youtube.com/watch?v=0XYv5x70Ofc)
+- [Design your own Circuit Boards using Kicad Part 1 (using only FREE software)](https://www.youtube.com/watch?v=sEGyNfBuPig)
+- [Design your own Circuit Boards using Kicad Part 2](https://www.youtube.com/watch?v=qw9WIm5M5R4)
 - [NI Multisim: Display and change net names](https://www.youtube.com/watch?v=0iZ-ph9pJjE)
 - [Multisim Ultiboard PCB Designing Tutorial 7 : Power Plane and Routing](https://www.youtube.com/watch?v=BFOAut19PUA)
 - [How to change the size of a through-hole pad in Ultibaord Multisim](https://www.youtube.com/watch?v=-oR81iPBdRk)
 - [Transferring an Ultiboard Design to Sunstone Circuits](https://www.youtube.com/watch?v=cZegx8sR5ds)
 - [Melt your circuit boards](https://www.youtube.com/watch?v=euJgtLcWWyo)
-- [Design your own Circuit Boards using Kicad Part 1 (using only FREE software)](https://www.youtube.com/watch?v=sEGyNfBuPig)
-- [Design your own Circuit Boards using Kicad Part 2](https://www.youtube.com/watch?v=qw9WIm5M5R4)
 - [From Idea to Schematic to PCB - How to do it easily!](https://www.youtube.com/watch?v=35YuILUlfGs)
 - [You can now PRINT PCBs! Creating a homemade PCB with the Voltera V-One PCB Printer!](https://www.youtube.com/watch?v=8u4izLA-SCo)
 - [Electronic Computing: Crash Course Computer Science #2](https://www.youtube.com/watch?v=LN0ucKNX0hc)
