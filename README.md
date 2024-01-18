@@ -198,6 +198,10 @@ Tags:
 - [How Alternators Work - Automotive Electricity Generator](https://www.youtube.com/watch?v=jdSKlg80DjU)
 #### Applied
 - [The Breadboard, schematics, cables and wiring.](https://www.youtube.com/watch?v=0XYv5x70Ofc)
+- [NI Multisim: Display and change net names](https://www.youtube.com/watch?v=0iZ-ph9pJjE)
+- [Multisim Ultiboard PCB Designing Tutorial 7 : Power Plane and Routing](https://www.youtube.com/watch?v=BFOAut19PUA)
+- [How to change the size of a through-hole pad in Ultibaord Multisim](https://www.youtube.com/watch?v=-oR81iPBdRk)
+- [Transferring an Ultiboard Design to Sunstone Circuits](https://www.youtube.com/watch?v=cZegx8sR5ds)
 - [Melt your circuit boards](https://www.youtube.com/watch?v=euJgtLcWWyo)
 - [Design your own Circuit Boards using Kicad Part 1 (using only FREE software)](https://www.youtube.com/watch?v=sEGyNfBuPig)
 - [Design your own Circuit Boards using Kicad Part 2](https://www.youtube.com/watch?v=qw9WIm5M5R4)
