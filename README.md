@@ -395,6 +395,7 @@ Tags:
 - [Best Vim Motion in 20 Seconds](https://www.youtube.com/watch?v=uxMfvWPUThE)
 - Redundant - [How to Become a VIM /G/od](https://www.youtube.com/watch?v=3sUDa5GdCTI)
 - Redundant - [Vim Tips You Probably Never Heard of](https://www.youtube.com/watch?v=bQfFvExpZDU)
+- [NVChad - Turn Neovim Into An Awesome IDE](https://odysee.com/@AlphaNerd:8/nvchad-turn-neovim-into-an-awesome-ide:7)
 
 #### Communication
 - Meme - [Technical Jargon Overload](https://www.youtube.com/watch?v=aW2LvQUcwqc)
