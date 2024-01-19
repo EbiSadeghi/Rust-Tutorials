@@ -347,6 +347,7 @@ Tags:
 
 ### Tools for Coding
 - [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
+- Certifictation - [Linux Tools for Software Dev - LFD108x](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/)
 #### Git
 - [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
 - [What is Git? Explained in 2 Minutes!](https://www.youtube.com/watch?v=2ReR1YJrNOM)
@@ -357,12 +358,14 @@ Tags:
 - [How to resolve merge conflicts in Git](https://www.youtube.com/watch?v=xNVM5UxlFSA)
 - [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)
 - [13 Advanced (but useful) Git Techniques and Shortcuts](https://www.youtube.com/watch?v=ecK3EnyGD8o)
+- Certification - [Linux Cert - LFD109x](https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/)
   
 #### Linux
 - [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
 - [Linux Tutorial For Beginners || Linux Command Line Tutorial](https://www.youtube.com/watch?v=5jIIOkA0NpI)
 - [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0)
 - Meme - [When Linux users met Windows 10](https://www.youtube.com/watch?v=WRGROMvU7nc)
+- Certification - [Linux Cert - LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/)
 
 #### Regex and String Searching
 - [Regular Expressions (RegEx) in 100 Seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
