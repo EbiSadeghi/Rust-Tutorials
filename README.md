@@ -347,6 +347,7 @@ Tags:
 
 ### Tools for Coding
 - [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
+- [Connecting to a server via SSH](https://www.youtube.com/watch?v=v45p_kJV9i4)
 - Certifictation - [Linux Tools for Software Dev - LFD108x](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/)
 #### Git
 - [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
