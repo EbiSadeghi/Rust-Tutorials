@@ -267,7 +267,6 @@ Tags:
 - [LLVM in 100 Seconds](https://www.youtube.com/watch?v=BT2Cv-Tjq7Q)
 - [Programming Basics: Statements & Functions: Crash Course Computer Science #12](https://www.youtube.com/watch?v=l26oaHV7D40)
 
-### Cryptography
 
 ### Networking
 - Motivation - [NYC’s nonprofit DIY internet is taking on Verizon & more | Just Might Work by Freethink](https://www.youtube.com/watch?v=Dpl-faX6vlg)
@@ -276,6 +275,21 @@ Tags:
 #### Theory
 - [OpenCSF 3 4: Software Security Lecture 1 Full](https://www.youtube.com/watch?v=STdt131vBYs)
 - [OpenCSF 3 4: Software Security Lecture 2 Full](https://www.youtube.com/watch?v=Hd0kLoRYkww)
+#### Cryptography
+- [Cryptography 101 - Security Goals](https://www.youtube.com/watch?v=Roq_SVDaBKE)
+- [Cryptography 101 - The Basics](https://www.youtube.com/watch?v=fNC3jCCGJ0o)
+- [Cryptography 101 - Substitution Ciphers](https://www.youtube.com/watch?v=1P8Xpxm76e8)
+- [The Science of Codes: An Intro to Cryptography](https://www.youtube.com/watch?v=-yFZGF8FHSg)
+- [Chapter 2, part 1, Information Security: Principles and Practice](https://www.youtube.com/watch?v=vdr74e7D9IU)
+- [Chapter 2, part 2, Information Security: Principles and Practice](https://www.youtube.com/watch?v=mXBcN_4rDsQ)
+- [Chapter 2, part 3: Crypto Basics --- double transposition, one-time pad](https://www.youtube.com/watch?v=_8SQljT_g9w)
+- [Chapter 2, part 4: Crypto Basics --- VENONA, codebook cipher, Zimmerman telegram](https://www.youtube.com/watch?v=JTHDbRTs1lk)
+- [Chapter 2, part 5: Crypto Basics --- crypto history, ciphers of election of 1876](https://www.youtube.com/watch?v=ZwIfquvaDoE)
+- [Chapter 2, part 6: Crypto Basics --- crypto history, Claude Shannon](https://www.youtube.com/watch?v=ohhdqujzwMA)
+- [Chapter 2, part 7: Crypto Basics --- taxonomy of cryptography, taxonomy of cryptanalysis](https://www.youtube.com/watch?v=gnhTDFEQK8A)
+- [The Mathematics of Cryptography](https://www.youtube.com/watch?v=uNzaMrcuTM0)
+- [Cryptography | The Mathematics of RSA and the Diffie-Hellman Protocol](https://www.youtube.com/watch?v=xmwxDHX6xUc)
+- Motivation - [Is Your WIFI Secure?](https://www.youtube.com/watch?v=K5ScFRT7wwc)
 #### Economics of Cybersecurity
 - [Economics of Cybersecurity: A brief history](https://www.youtube.com/watch?v=wAmHPJQoWEc)
 - [Economics of Cybersecurity: An introduction to economics](https://www.youtube.com/watch?v=-Tw_yFiqIfY)
