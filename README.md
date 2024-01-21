@@ -411,6 +411,7 @@ Tags:
 - [Phishing - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=0Tr8avVrzLA)
 ##### Incident Response
 - [I Knew You Were Trouble – Detecting Threat Actors Before They Deploy Ransomware](https://www.youtube.com/watch?v=adwwviNdyBw)
+- [Survival Heuristics: My Favorite Techniques for Avoiding Intelligence Traps - SANS CTI Summit 2018](https://www.youtube.com/watch?v=kNv2PlqmsAc)
 
 ### Networking
 - Motivation - [NYC’s nonprofit DIY internet is taking on Verizon & more | Just Might Work by Freethink](https://www.youtube.com/watch?v=Dpl-faX6vlg)
