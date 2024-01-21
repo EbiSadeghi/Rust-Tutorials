@@ -104,12 +104,14 @@ Season 2 Intermediate Rust
 Season 3 Advanced Rust and CI/CD 
 - s3e0 Rust for Professional Software Engineers
 - s3e1 Creating a library in Rust
+- s3   Doc Comments in Rust
 - s3e2 Unit Testing in Rust
 - s3e3 Document Testing in Rust
 - s3e4 Integration Testing in Rust
 - s3e5 Mocks in Rust
 - s3e5 Build Scripts in Rust
 - s3e6 Macros in Rust
+- s3   Conditional Compilation in Rust
 - s3e7 Unsafe Rust
 - s3e8 Associated Types in Rust
 - s3e9 Garbage Collector and Rust
