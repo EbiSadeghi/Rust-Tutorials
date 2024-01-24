@@ -418,7 +418,11 @@ Tags:
 ### Networking
 - Motivation - [NYC’s nonprofit DIY internet is taking on Verizon & more | Just Might Work by Freethink](https://www.youtube.com/watch?v=Dpl-faX6vlg)
 - [Computer Networking Course - Network Engineering (CompTIA Network+ Exam Prep)](https://www.youtube.com/watch?v=qiQR5rTSshw)
-
+- [IP Address - IPv4 vs IPv6 Tutorial](https://www.youtube.com/watch?v=ThdO9beHhpA)
+- [Why Don't We Run Out of IP Addresses](https://www.youtube.com/watch?v=BNZcL--JesM)
+- Motivation - [Block Ads (on all devices) and Unwanted Sites Without a Browser Addon](https://www.youtube.com/watch?v=KA6A3oeocHY)
+- [TCP vs UDP Comparison](https://www.youtube.com/watch?v=uwoD5YsGACg)
+- [PING Command - Troubleshooting Networks](https://www.youtube.com/watch?v=IIicPE38O-s)
   
 ### Computer Science
 - [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
