@@ -427,7 +427,8 @@ Tags:
 - [Principles of Social Engineering - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=ndwCR1kYz5M)
 - [Phishing - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=0Tr8avVrzLA)
 - Redundant - [CompTIA Security+ Full Course](https://www.youtube.com/watch?v=O4pJeXgOJDs)
-- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)	
+- [Ethical Hacking 101: Web App Penetration Testing - a full course for beginners](https://www.youtube.com/watch?v=2_lswM1S264)
 ###### RE+
 - [What is Dependency Injection?](https://www.youtube.com/watch?v=tYZd8hserms)
 ##### Incident Response
@@ -505,6 +506,7 @@ Tags:
 - [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
 - [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0)
 - Meme - [When Linux users met Windows 10](https://www.youtube.com/watch?v=WRGROMvU7nc)
+- Redundant - [Linux for Ethical Hackers (Kali Linux Tutorial)](https://www.youtube.com/watch?v=lZAoFs75_cs)
 - Certification - [Linux Cert - LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/)
 
 #### Regex and String Searching
