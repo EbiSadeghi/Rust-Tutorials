@@ -167,10 +167,19 @@ Tags:
 - [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=zZhU5Pf4W5w)
 - Redundant - [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
 - [Probability - Quantum and Classical](https://www.youtube.com/watch?v=X2eomv6XfWo)
-- 
+#### Category Theory
+- [Python's Map Function Explained...](https://www.youtube.com/watch?v=8q2vICb89ys)
+- [A monad is a monoid in the category of endofunctors. Whats the problem? #SoMe2](https://www.youtube.com/watch?v=ENo_B8CZNRQ)
+- [What is a Monad? - Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)
+- [Python Lambda Functions](https://www.youtube.com/watch?v=KR22jigJLok)
+- Motivation - [27 Unhelpful Facts About Category Theory](https://www.youtube.com/watch?v=H0Ek86IH-3Y)
+
 ### Physics
 - Motivation - [Philosophy of Science](https://www.youtube.com/watch?v=IR8LqXbELQM)
 - Motivation - [Philosophy of Physics](https://www.youtube.com/watch?v=DACcyBN5Jng)
+- Motivation - The Standard Model Lagrangian [The Equation That Explains (Nearly) Everything!](https://www.youtube.com/watch?v=PHiyQID7SBs&)
+- [Noether's Theorem and The Symmetries of Reality](https://www.youtube.com/watch?v=04ERSb06dOg)
+
 - [Classical Mechanics Lecture Full Course || Mechanics Physics Course](https://www.youtube.com/watch?v=83QCm3LkuEg)
 - Motivation - [Einstein's Elevator](https://www.youtube.com/watch?v=sbSxxsb30_E)
 - Motivation - [Does Time Cause Gravity?](https://www.youtube.com/watch?v=UKxQTvqcpSg)
@@ -182,6 +191,8 @@ Tags:
 - Motivation - [How Quantum Entanglement Creates Entropy](https://www.youtube.com/watch?v=vgYQglmYU-8)
 #### Quantum Mechanics, Semiconductors, and Transistors
 - [Modern Physics || Modern Physics Full Lecture Course](https://www.youtube.com/watch?v=3lTQqEehEhI)
+- [Quantum Mechanics: Animation explaining quantum physics](https://www.youtube.com/watch?v=iVpXrbZ4bnU)
+- Motivation - [Quantum Physics – list of Philosophical Interpretations](https://www.youtube.com/watch?v=XQ25E9gu4qI)
 - [Quantum Physics Full Course | Quantum Mechanics Course | Part 2](https://www.youtube.com/watch?v=QQCMOc8yB70)
 - Meme - [Futurama Schrodinger's Cat](https://www.youtube.com/watch?v=qr78nv5CR2s)
 - [Semiconductors - Physics inside Transistors and Diodes](https://www.youtube.com/watch?v=hrpPKCDLRN0)
@@ -364,6 +375,7 @@ Tags:
 - [Lecture 10 — Altcoins and the Cryptocurrency Ecosystem](https://www.youtube.com/watch?v=l-3kOuF0dts)
 - [Lecture 11 — The future of Bitcoin?](https://www.youtube.com/watch?v=YG7l0XPtzD4)
 - [Lecture 12 — History of Cryptocurrencies (Bonus lecture)](https://www.youtube.com/watch?v=1VYs_zZsorU)
+- [Crypto-jacking - Computerphile](https://www.youtube.com/watch?v=vMIZKtVruH8)
 - [Bitcoin ₿ in 100 Seconds // Build your Own Blockchain](https://www.youtube.com/watch?v=qF7dkrce-mQ)
 - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ)
 - [Venezuela’s Cryptocurrency Catastrophe: How It Went So Wrong](https://www.youtube.com/watch?v=Qa6KqYZYLqk)
@@ -407,13 +419,24 @@ Tags:
 - Meme - [ring doorbell](https://www.youtube.com/watch?v=SMRJptsxJXM&t=11s)
 - [Physical Security Controls - SY0-601 CompTIA Security+ : 2.7](https://www.youtube.com/watch?v=sacbNzDaYCY)
 - [Secure Areas - SY0-601 CompTIA Security+ : 2.7](https://www.youtube.com/watch?v=7nX3vI5I-Qc)
+- [Cross Site Request Forgery Explained](https://www.youtube.com/watch?v=GG9hFMAcNh0)
+- [Cross Site Request Forgery - Computerphile](https://www.youtube.com/watch?v=vRBihr41JTo)
+- [Cross Site Scripting Explained](https://www.youtube.com/watch?v=FsIvD6LKaM0)
 ##### Penetration Testing
 - [OpenCSF 3 4: Software Security Lecture 5 Full](https://www.youtube.com/watch?v=t7sag2VLfag)
 - [Principles of Social Engineering - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=ndwCR1kYz5M)
 - [Phishing - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=0Tr8avVrzLA)
+- Redundant - [CompTIA Security+ Full Course](https://www.youtube.com/watch?v=O4pJeXgOJDs)
+###### RE+
+- [What is Dependency Injection?](https://www.youtube.com/watch?v=tYZd8hserms)
 ##### Incident Response
+- [DDoS Attack Explained](https://www.youtube.com/watch?v=ilhGh9CEIwM)
 - [I Knew You Were Trouble – Detecting Threat Actors Before They Deploy Ransomware](https://www.youtube.com/watch?v=adwwviNdyBw)
 - [Survival Heuristics: My Favorite Techniques for Avoiding Intelligence Traps - SANS CTI Summit 2018](https://www.youtube.com/watch?v=kNv2PlqmsAc)
+##### Quantum, Computing, & Cybersecurity
+- [Solving Quantum Cryptography](https://www.youtube.com/watch?v=4KCDGa98Ckc)
+- Motivation - [Why Quantum Computing Requires Quantum Cryptography](https://www.youtube.com/watch?v=pi7YwxxZQ5A)
+- Motivation - [Don't fall for quantum hype](https://www.youtube.com/watch?v=b-aGIvUomTA)
 
 ### Networking
 - Motivation - [NYC’s nonprofit DIY internet is taking on Verizon & more | Just Might Work by Freethink](https://www.youtube.com/watch?v=Dpl-faX6vlg)
@@ -421,8 +444,10 @@ Tags:
 - [IP Address - IPv4 vs IPv6 Tutorial](https://www.youtube.com/watch?v=ThdO9beHhpA)
 - [Why Don't We Run Out of IP Addresses](https://www.youtube.com/watch?v=BNZcL--JesM)
 - Motivation - [Block Ads (on all devices) and Unwanted Sites Without a Browser Addon](https://www.youtube.com/watch?v=KA6A3oeocHY)
+- [Subnet Mask - Explained](https://www.youtube.com/watch?v=s_Ntt6eTn94)
 - [TCP vs UDP Comparison](https://www.youtube.com/watch?v=uwoD5YsGACg)
 - [PING Command - Troubleshooting Networks](https://www.youtube.com/watch?v=IIicPE38O-s)
+- [CompTIA Network+ Certification Video Course](https://www.youtube.com/watch?v=vrh0epPAC5w)
   
 ### Computer Science
 - [100+ Computer Science Concepts Explained](https://www.youtube.com/watch?v=-uleG_Vecis)
@@ -458,6 +483,8 @@ Tags:
 ### Tools for Coding
 - [~/.dotfiles in 100 Seconds](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
 - [Connecting to a server via SSH](https://www.youtube.com/watch?v=v45p_kJV9i4)
+- Redundant - [CompTIA A+ Full Video Course for Beginners](https://www.youtube.com/watch?v=hFjiwMQJers)
+- Redundant - [Full Video Course certification CompTIA A + 220-901](https://www.youtube.com/watch?v=2eLe7uz-7CM)
 - Certifictation - [Linux Tools for Software Dev - LFD108x](https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/)
 #### Git
 - [Git Explained in 100 Seconds](https://www.youtube.com/watch?v=hwP7WQkmECE)
@@ -474,6 +501,7 @@ Tags:
 #### Linux
 - [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4)
 - [Linux Tutorial For Beginners || Linux Command Line Tutorial](https://www.youtube.com/watch?v=5jIIOkA0NpI)
+- [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g)
 - [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0)
 - Meme - [When Linux users met Windows 10](https://www.youtube.com/watch?v=WRGROMvU7nc)
 - Certification - [Linux Cert - LFS101x](https://training.linuxfoundation.org/training/introduction-to-linux/)
