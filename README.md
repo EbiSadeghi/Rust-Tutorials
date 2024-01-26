@@ -427,6 +427,7 @@ Tags:
 - [Principles of Social Engineering - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=ndwCR1kYz5M)
 - [Phishing - SY0-601 CompTIA Security+ : 1.1](https://www.youtube.com/watch?v=0Tr8avVrzLA)
 - Redundant - [CompTIA Security+ Full Course](https://www.youtube.com/watch?v=O4pJeXgOJDs)
+- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
 ###### RE+
 - [What is Dependency Injection?](https://www.youtube.com/watch?v=tYZd8hserms)
 ##### Incident Response
