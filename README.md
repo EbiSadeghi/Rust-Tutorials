@@ -546,6 +546,15 @@ Tags:
 - Meme - [Technical Jargon Overload](https://www.youtube.com/watch?v=aW2LvQUcwqc)
 - Meme - [Droop Snoot](https://www.youtube.com/watch?v=YuedQFH8wZI)
 #### Studying & Organization
+- [How to achieve more while studying less - Obsidian & Conceptual Notes](https://www.youtube.com/watch?v=MYJsGksojms)
+- [Getting Started with Obsidian (plugins, templates, folders, and more)](https://www.youtube.com/watch?v=1qB2-ciYlt4)
+- [How To Organize Your Notes in Obsidian | Folders, Tags and Links](https://www.youtube.com/watch?v=GUtXbwqS3iQ)
+- [Dataview Plugin: How To Use This Powerful Obsidian Plugin (With Examples)](https://www.youtube.com/watch?v=7kFEl7Ovsr8)
+- [100 OBSIDIAN TIPS: Beginner to Advanced in 23 Minutes | Obsidian Tutorial](https://www.youtube.com/watch?v=wKNWMBeGCuU)
+- [How to download and use my Obsidian MD notes and templates](https://www.youtube.com/watch?v=7JMRrskgw7I)
+- [Obsidian Advanced Techniques | Templates, Tagging, Folding, Embedding, and more](https://www.youtube.com/watch?v=c6qfrRVUOO8)
+- [An Introduction to Dataview - Part 1](https://www.youtube.com/watch?v=sEgzrRNkgsE)
+- [An Introduction to Dataview - Part 2](https://www.youtube.com/watch?v=jW5pD4SioFM)
 
 ### Ethics
 - [Jaron Lanier - The Surveillance Economy and Extreme Income Inequality: You Can't Have One Without the Other](https://www.youtube.com/watch?v=VSH9gOqevRc)
