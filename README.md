@@ -179,7 +179,6 @@ Tags:
 - Motivation - [Philosophy of Physics](https://www.youtube.com/watch?v=DACcyBN5Jng)
 - Motivation - The Standard Model Lagrangian [The Equation That Explains (Nearly) Everything!](https://www.youtube.com/watch?v=PHiyQID7SBs&)
 - [Noether's Theorem and The Symmetries of Reality](https://www.youtube.com/watch?v=04ERSb06dOg)
-
 - [Classical Mechanics Lecture Full Course || Mechanics Physics Course](https://www.youtube.com/watch?v=83QCm3LkuEg)
 - Motivation - [Einstein's Elevator](https://www.youtube.com/watch?v=sbSxxsb30_E)
 - Motivation - [The Geometry of a Black Hole](https://www.youtube.com/watch?v=q6RufF4a6LM)
@@ -191,6 +190,7 @@ Tags:
 - Motivation - [Why Do You Remember The Past But Not The Future?](https://www.youtube.com/watch?v=F0b8b_ykPQk)
 - Motivation - [How Quantum Entanglement Creates Entropy](https://www.youtube.com/watch?v=vgYQglmYU-8)
 #### Quantum Mechanics, Semiconductors, and Transistors
+- [Welcome To Matrix Theory: Relativity without Relative Time or Space](https://www.youtube.com/watch?v=B94o-P93ExU)
 - [Modern Physics || Modern Physics Full Lecture Course](https://www.youtube.com/watch?v=3lTQqEehEhI)
 - [Quantum Mechanics: Animation explaining quantum physics](https://www.youtube.com/watch?v=iVpXrbZ4bnU)
 - Motivation - [Quantum Physics – list of Philosophical Interpretations](https://www.youtube.com/watch?v=XQ25E9gu4qI)
