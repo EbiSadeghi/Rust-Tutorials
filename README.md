@@ -182,6 +182,7 @@ Tags:
 
 - [Classical Mechanics Lecture Full Course || Mechanics Physics Course](https://www.youtube.com/watch?v=83QCm3LkuEg)
 - Motivation - [Einstein's Elevator](https://www.youtube.com/watch?v=sbSxxsb30_E)
+- Motivation - [The Geometry of a Black Hole](https://www.youtube.com/watch?v=q6RufF4a6LM)
 - Motivation - [Does Time Cause Gravity?](https://www.youtube.com/watch?v=UKxQTvqcpSg)
 - [Minkowski Space-Time: Spacetime in Special Relativity](https://www.youtube.com/watch?v=zScn3tV9YPU)
 - Motivation - [The Geometry of Causality](https://www.youtube.com/watch?v=1YFrISfN7jo)
