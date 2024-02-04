@@ -363,6 +363,17 @@ Tags:
 - [Elliptic Curve Back Door - Computerphile](https://www.youtube.com/watch?v=nybVFJVXbww)
 - [How did the NSA hack our emails? - Numberphile](https://www.youtube.com/watch?v=ulg_AHBOIQU)
 - Motivation - [NSA Surveillance (an extra bit) - Numberphile](https://www.youtube.com/watch?v=1O69uBL22nY)
+#### Protocols
+- [Chapter 9, part 1, Information Security: Principles and Practice](https://www.youtube.com/watch?v=cqUu2sSHDfY)
+- [Chapter 9, part 2, Information Security: Principles and Practice](https://www.youtube.com/watch?v=P1zCzZ56sJw)
+- [Chapter 9, part 3, Information Security: Principles and Practice](https://www.youtube.com/watch?v=0w7Ha_D6wZ8)
+- [Chapter 9, part 4, Information Security: Principles and Practice](https://www.youtube.com/watch?v=2oqoSiLupOg)
+- [Chapter 9, part 5, Information Security: Principles and Practice](https://www.youtube.com/watch?v=OZyxkLldB6s)
+- [Chapter 9, part 6, Information Security: Principles and Practice](https://www.youtube.com/watch?v=u920FXxqWW0)
+- [Chapter 9, part 7, Information Security: Principles and Practice](https://www.youtube.com/watch?v=3pCnBB3iSEI)
+- [Chapter 9, part 8. Information Security: Principles and Practice](https://www.youtube.com/watch?v=5jUxe6jmkKw)
+- [Chapter 9, part 9, Information Security: Principles and Practice](https://www.youtube.com/watch?v=voAh0DnCJUE)
+- [Chapter 10, part 1, Information Security: Principles and Practice](https://www.youtube.com/watch?v=XtBCkNQ2hMs)
 #### Cryptocurrency
 - [Lecture 1 — Intro to Crypto and Cryptocurrencies](https://www.youtube.com/watch?v=fOMVZXLjKYo)
 - [Lecture 2 — How Bitcoin Achieves Decentralization](https://www.youtube.com/watch?v=q5GWwTgRIT4)
