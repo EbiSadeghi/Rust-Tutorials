@@ -210,6 +210,7 @@ Tags:
 - [ELEC 202 - (Silent video) Class notes on Resonance for my students.](https://www.youtube.com/watch?v=3knAk2tbpno)
 - [ELEC 202 - Two Port Networks SILENT](https://www.youtube.com/watch?v=LJfGnBpbiK0)
 - [How Alternators Work - Automotive Electricity Generator](https://www.youtube.com/watch?v=jdSKlg80DjU)
+- Meme - [Scientists Continue Developing Alternative Energy Sources For Americans To Waste](https://www.youtube.com/watch?v=TMG5g6MWmvA)
 #### Applied
 - [The Breadboard, schematics, cables and wiring.](https://www.youtube.com/watch?v=0XYv5x70Ofc)
 - [Design your own Circuit Boards using Kicad Part 1 (using only FREE software)](https://www.youtube.com/watch?v=sEGyNfBuPig)
@@ -570,7 +571,9 @@ Tags:
 
 ### Ethics
 - [Jaron Lanier - The Surveillance Economy and Extreme Income Inequality: You Can't Have One Without the Other](https://www.youtube.com/watch?v=VSH9gOqevRc)
+- Meme - [New Facebook Feature Scans Profile To Pinpoint Exactly When Things Went Wrong](https://www.youtube.com/watch?v=fHefhIId4qY)
 - [Jaron Lanier - 10 Reasons to Get Off Social Media](https://www.youtube.com/watch?v=BCTlcj5vImk)
+- Meme - [Google Opt Out Feature Lets Users Protect Privacy By Moving To Remote Village](https://www.youtube.com/watch?v=lMChO0qNbkY)
 - [Jaron Lanier – Who is Civilization for? (+ Q&A with Ulrich Kelber) Willy Brandt Lecture 2018](https://www.youtube.com/watch?v=rGqiswuJuQI)
 - [Why Google Maps Doesn't Show You Unsafe Areas](https://www.youtube.com/watch?v=4i66ht6YHkw)
 - [Is Automation Ethical?](https://www.youtube.com/watch?v=oIilPHgC238)
