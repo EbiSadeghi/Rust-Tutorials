@@ -180,6 +180,7 @@ Tags:
 - [A quick trick for computing eigenvalues | Chapter 15, Essence of linear algebra](https://www.youtube.com/watch?v=e50Bj7jn9IQ)
 - [Abstract vector spaces | Chapter 16, Essence of linear algebra](https://www.youtube.com/watch?v=TgKwz5Ikpc8)
 #### Differential Equations, ODEs, PDEs
+- [Peter Gilliam - Musical Fourier (#SoME1)](https://www.youtube.com/watch?v=Eayo7pZ2g7A)
 #### Statistics
 - [Statistics and Probability Full Course || Statistics For Data Science](https://www.youtube.com/watch?v=zZhU5Pf4W5w)
 - Redundant - [Statistics - A Full University Course on Data Science Basics](https://www.youtube.com/watch?v=xxpc-HPKN28)
