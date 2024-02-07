@@ -393,6 +393,7 @@ Tags:
 - [Chapter 9, part 8. Information Security: Principles and Practice](https://www.youtube.com/watch?v=5jUxe6jmkKw)
 - [Chapter 9, part 9, Information Security: Principles and Practice](https://www.youtube.com/watch?v=voAh0DnCJUE)
 - [Chapter 10, part 1, Information Security: Principles and Practice](https://www.youtube.com/watch?v=XtBCkNQ2hMs)
+- [SSL & Socket Layer - Chapter 10, part 2, Information Security: Principles and Practice](https://www.youtube.com/watch?v=N9rDoSrQAQk)
 #### Cryptocurrency
 - [Lecture 1 — Intro to Crypto and Cryptocurrencies](https://www.youtube.com/watch?v=fOMVZXLjKYo)
 - [Lecture 2 — How Bitcoin Achieves Decentralization](https://www.youtube.com/watch?v=q5GWwTgRIT4)
